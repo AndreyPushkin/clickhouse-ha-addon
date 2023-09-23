@@ -11,7 +11,7 @@
         "listen_host": "::"
     },
     "ports": {
-        "8124/tcp": null,
+        "8124/tcp": 8124,
         "9000/tcp": null
     },
     "schema": {
